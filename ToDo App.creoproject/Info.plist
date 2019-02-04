@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>Icon-Small</string>
+				<string>Icon-Small-40</string>
+				<string>Icon-60</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>Icon-Small</string>
+				<string>Icon-Small-40</string>
+				<string>Icon-60</string>
+				<string>Icon-76</string>
+				<string>Icon-83.5</string>
+			</array>
+		</dict>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>assets/Fonts/Heebo-Black.ttf</string>
+		<string>assets/Fonts/FiraSans-SemiBold.ttf</string>
+		<string>assets/Fonts/FiraSans-ExtraBold.ttf</string>
+		<string>assets/Fonts/FiraSans-BoldItalic.ttf</string>
+		<string>assets/Fonts/FiraSans-Medium.ttf</string>
+		<string>assets/Fonts/FiraSans-BlackItalic.ttf</string>
+		<string>assets/Fonts/FiraSans-Bold.ttf</string>
+		<string>assets/Fonts/FiraSans-Light.ttf</string>
+		<string>assets/Fonts/FiraSans-ExtraBoldItalic.ttf</string>
+		<string>assets/Fonts/FiraSans-Black.ttf</string>
+		<string>assets/Fonts/FiraSans-LightItalic.ttf</string>
+		<string>assets/Fonts/FiraSans-MediumItalic.ttf</string>
+		<string>assets/Fonts/FiraSans-Thin.ttf</string>
+		<string>assets/Fonts/FiraSans-Regular1.ttf</string>
+		<string>assets/Fonts/FiraSans-ThinItalic.ttf</string>
+		<string>assets/Fonts/FiraSans-ExtraLightItalic.ttf</string>
+		<string>assets/Fonts/FiraSans-ExtraLight.ttf</string>
+		<string>assets/Fonts/FiraSans-SemiBoldItalic.ttf</string>
+		<string>assets/Fonts/FiraSans-Italic.ttf</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
