@@ -5,7 +5,7 @@ simple to-do list for iOS – built with Creo
 ## How to use
 This project is created using [Creo](https://creolabs.com/) tool. 
 
-Clone `.creoprojet` to your computer and open using [Creo.app for macOS](https://creolabs.com/download)
+Clone `.creoproject` to your computer and open using [Creo.app for macOS](https://creolabs.com/download)
 
 ## App
 App is available in AppStore (soon)
