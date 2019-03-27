@@ -1,5 +1,5 @@
 # doer
-simple to-do list for iOS – build with Creo
+simple to-do list for iOS – built with Creo
 
 
 ## How to use
