@@ -16,3 +16,7 @@ App is available in AppStore (soon)
 The project is delivered for private use only. Commercial usage, distribution and remixing is prohibited. 
 
 [Check the license before use](https://github.com/pandizajner/doer/blob/master/license.md)
+
+### Privacy Policy
+
+If you're looking for app Privacy Policy – [you can check out it here](https://github.com/pandizajner/doer/blob/master/privacy-policy.md)
